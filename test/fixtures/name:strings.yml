@@ -1,0 +1,13 @@
+one:
+  body: MyText
+  date_inicio: 2011-01-11 12:00:33
+  data_fim: 
+  published: 1
+  total_clicks: 1
+
+two:
+  body: MyText
+  date_inicio: 2011-01-11 12:00:33
+  data_fim: 
+  published: 1
+  total_clicks: 1

@@ -1,0 +1,15 @@
+one:
+  name: MyString
+  body: MyText
+  published: false
+  data_inicio: 2011-01-11 14:31:31
+  data_fim: 2011-01-11 14:31:31
+  total_lidos: 1
+
+two:
+  name: MyString
+  body: MyText
+  published: false
+  data_inicio: 2011-01-11 14:31:31
+  data_fim: 2011-01-11 14:31:31
+  total_lidos: 1

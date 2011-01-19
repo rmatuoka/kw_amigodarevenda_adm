@@ -1,0 +1,9 @@
+one:
+  title: MyString
+  description: MyText
+  total_downloads: 1
+
+two:
+  title: MyString
+  description: MyText
+  total_downloads: 1

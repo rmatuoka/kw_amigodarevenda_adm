@@ -1,0 +1,27 @@
+<% title "Offers" %>
+
+<table>
+  <tr>
+    <th>Name</th>
+    <th>Body</th>
+    <th>Date Inicio</th>
+    <th>Data Fim</th>
+    <th>Published</th>
+    <th>Total Clicks</th>
+  </tr>
+  <% for offer in @offers %>
+    <tr>
+      <td><%=h offer.name %></td>
+      <td><%=h offer.body %></td>
+      <td><%=h offer.date_inicio %></td>
+      <td><%=h offer.data_fim %></td>
+      <td><%=h offer.published %></td>
+      <td><%=h offer.total_clicks %></td>
+      <td><%= link_to "Show", offer %></td>
+      <td><%= link_to "Edit", edit_offer_path(offer) %></td>
+      <td><%= link_to "Destroy", offer, :confirm => 'Are you sure?', :method => :delete %></td>
+    </tr>
+  <% end %>
+</table>
+
+<p><%= link_to "New Offer", new_offer_path %></p>

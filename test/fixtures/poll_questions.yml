@@ -1,0 +1,11 @@
+one:
+  poll_id: 1
+  question: MyString
+  published: false
+  total_votes: 1
+
+two:
+  poll_id: 1
+  question: MyString
+  published: false
+  total_votes: 1

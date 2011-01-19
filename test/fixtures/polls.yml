@@ -1,0 +1,13 @@
+one:
+  name: MyString
+  multiple: false
+  data_inicio: 2011-01-11 12:56:20
+  data_fim: 2011-01-11 12:56:20
+  published: 1
+
+two:
+  name: MyString
+  multiple: false
+  data_inicio: 2011-01-11 12:56:20
+  data_fim: 2011-01-11 12:56:20
+  published: 1

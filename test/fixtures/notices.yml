@@ -1,0 +1,11 @@
+one:
+  name: MyString
+  body: MyText
+  summary: MyString
+  published: 1
+
+two:
+  name: MyString
+  body: MyText
+  summary: MyString
+  published: 1
